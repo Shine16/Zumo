@@ -1,0 +1,25 @@
+using Zumo
+Zumo shield install from Arduino, or dl from git
+https://github.com/pololu/zumo-shield-arduino-library
+
+https://pololu.github.io/zumo-shield-arduino-library/
+
+pin assignment pinout
+https://www.pololu.com/docs/0J57/5
+
+
+reflectance
+https://www.pololu.com/docs/0J57/2.c
+byte pins[] = {4, A3, 11, A0, A2, 5};
+reflectanceSensors.init(pins, 6);
+
+shield features
+https://www.pololu.com/docs/0J57/6
+
+schematic
+https://www.pololu.com/file/0J591/zumo_shield_schematic.pdf
+
+resources
+https://www.pololu.com/product/2510/resources
+
+https://www.pololu.com/product/2508
