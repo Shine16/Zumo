@@ -1,14 +1,22 @@
 #include <Wire.h>
 #include <ZumoShield.h>
+#include <Protractor.h>
 
 //Sensors
 #include "Sensors.h"
+
+Protractor myProtractor;
+
 
 
 void setup() {
   // put your setup code here, to run once:
 Serial.begin(9600);
 
+  Wire.begin();
+  myProtractor.begin(Wire,69); 
+
+  
 initsensors();
 initmotors();
 

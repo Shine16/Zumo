@@ -27,7 +27,14 @@ https://www.pololu.com/product/2508
 
 
 http://www.will-moore.com/protractor
-https://github.com/robogao/Protractor
 https://www.tindie.com/products/Robogao/protractor-proximity-sensor-that-measures-angles/
 https://www.youtube.com/watch?v=snCv57PUe70
+https://github.com/robogao/Protractor
+
+tutorial
+http://www.robogao.com/2017/09/protractor_10.html
+Zumo pinouts
+https://www.pololu.com/docs/0J57/3.a
+
+
 
